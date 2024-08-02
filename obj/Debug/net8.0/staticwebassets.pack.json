@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\USUARIO\\Documents\\Diego\\CASTOR\\BACKEND\\CASTOR-API\\wwwroot\\images\\Estrella.jpeg",
+      "PackagePath": "staticwebassets\\images\\Estrella.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\USUARIO\\Documents\\Diego\\CASTOR\\BACKEND\\CASTOR-API\\wwwroot\\images\\descarga (59).jpg",
+      "PackagePath": "staticwebassets\\images\\descarga (59).jpg"
+    },
+    {
+      "Id": "C:\\Users\\USUARIO\\Documents\\Diego\\CASTOR\\BACKEND\\CASTOR-API\\wwwroot\\images\\empleado1.jpg",
+      "PackagePath": "staticwebassets\\images\\empleado1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USUARIO\\Documents\\Diego\\CASTOR\\BACKEND\\CASTOR-API\\wwwroot\\images\\empleado2.jpg",
+      "PackagePath": "staticwebassets\\images\\empleado2.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CASTOR-API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CASTOR-API.props",
+      "PackagePath": "build\\CASTOR-API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CASTOR-API.props",
+      "PackagePath": "buildMultiTargeting\\CASTOR-API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CASTOR-API.props",
+      "PackagePath": "buildTransitive\\CASTOR-API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

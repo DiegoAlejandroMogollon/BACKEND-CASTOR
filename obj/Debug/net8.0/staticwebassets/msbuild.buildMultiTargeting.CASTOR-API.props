@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CASTOR-API.props" />
+</Project>
